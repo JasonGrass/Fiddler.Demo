@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiddler.Demo.Api", "Code\Fiddler.Demo.Api\Fiddler.Demo.Api.csproj", "{442B9FD6-F35E-4AC4-9509-D70EC2C82E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiddler.Demo.PluginEntry", "Code\Fiddler.Demo.PluginEntry\Fiddler.Demo.PluginEntry.csproj", "{41B4704D-FE31-48D4-A25B-A27E20EEAB1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiddler.Demo.WPFHost", "Code\Fiddler.Demo.WPFHost\Fiddler.Demo.WPFHost.csproj", "{D86FBEDC-60F1-4A44-9A53-7CE7777919EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiddler.Demo.UI", "Code\Fiddler.Demo.UI\Fiddler.Demo.UI.csproj", "{F26CCA6A-42DF-4932-B28C-97642A22C53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442B9FD6-F35E-4AC4-9509-D70EC2C82E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442B9FD6-F35E-4AC4-9509-D70EC2C82E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442B9FD6-F35E-4AC4-9509-D70EC2C82E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442B9FD6-F35E-4AC4-9509-D70EC2C82E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B4704D-FE31-48D4-A25B-A27E20EEAB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B4704D-FE31-48D4-A25B-A27E20EEAB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B4704D-FE31-48D4-A25B-A27E20EEAB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B4704D-FE31-48D4-A25B-A27E20EEAB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86FBEDC-60F1-4A44-9A53-7CE7777919EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86FBEDC-60F1-4A44-9A53-7CE7777919EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86FBEDC-60F1-4A44-9A53-7CE7777919EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86FBEDC-60F1-4A44-9A53-7CE7777919EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26CCA6A-42DF-4932-B28C-97642A22C53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26CCA6A-42DF-4932-B28C-97642A22C53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26CCA6A-42DF-4932-B28C-97642A22C53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26CCA6A-42DF-4932-B28C-97642A22C53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B65837A-7A55-40D3-A045-9AD57448B1E1}
+	EndGlobalSection
+EndGlobal
