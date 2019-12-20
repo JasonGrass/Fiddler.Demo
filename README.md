@@ -1,3 +1,7 @@
+对 Fiddler 插件开发的封装 SDK
+
+[JasonGrass/Fiddler.Plugin.SDK: Fiddler 插件开发 SDK](https://github.com/JasonGrass/Fiddler.Plugin.SDK )
+
 # Fiddler 插件 Demo
 
 Fiddler 插件的 UI，本身使用的 WinForm，这个例子是使用 WinForm 中的 WPF 容器，将 WPF 控件作为 Fiddler 插件的 UI 使用。
